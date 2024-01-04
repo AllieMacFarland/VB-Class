@@ -1,3 +1,3 @@
 # VB-Class
 This is for my software class <br>
-Jan. 4th update read me
+<b>Jan. 4th</b> update read me
